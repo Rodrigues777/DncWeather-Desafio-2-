@@ -1,0 +1,62 @@
+
+body{
+background-color: #F0F0F0;
+font-family: 'Inter', sans-serif;
+}
+.container-box {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.navbar {
+    background-color: #0C70F2 !important;
+}
+.navbar-brand, .nav-link, footer a {
+    color: white !important;
+}
+
+#temporeal{ 
+  text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+#Nuvem1{
+  width: 150px;
+  height: 150px;
+  margin-left: 25px;
+  margin-bottom: 25px;
+  margin-top: 10px;                      
+}
+#frentelogo{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+#imgCep{
+  width: 85px;
+  margin-left: 10px;
+
+}
+#Nuvem2{
+  width: 100px;
+  height: 80px;                  
+}
+h4 {
+  color: #0C70F2;
+}
+footer {
+  background-color: #0C70F2;
+  color: white;
+  padding: 10px 0;
+}
+footer a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+footer a:hover {
+  text-decoration: underline;
+}
