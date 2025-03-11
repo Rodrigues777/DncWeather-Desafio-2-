@@ -1,7 +1,10 @@
 {
   "Desafio 2": {
-      "github":"https://github.com/Rodrigues777/DncWeather-Desafio-2-",
-      "Link": "https://dncweatherdesafio2.netlify.app"
+    "github":"https://github.com/Rodrigues777/DncWeather-Desafio-2-",
+
+
+      
+"Link do Site": "https://dncweatherdesafio2.netlify.app"
               }
 }
 
