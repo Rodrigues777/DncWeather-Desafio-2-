@@ -22,15 +22,7 @@ Interface responsiva e amigável.
 
 Como Executar o Projeto
 
-Clone o repositório:
-
-git clone https://github.com/Rodrigues777/DncWeather-Desafio-2-
-
-Acesse o diretório do projeto:
-
-cd dncweather
-
-Abra o arquivo index.html no navegador.
+acesse o site:
 
 Correção de Erros
 
