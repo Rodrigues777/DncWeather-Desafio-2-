@@ -1,3 +1,10 @@
+{
+  "Desafio 2": {
+      "github":"  ",
+      "Link": "https://dncweatherdesafio2.netlify.app"
+              }
+}
+
 DncWeather
 
 DncWeather é um projeto web que permite aos usuários consultar endereços a partir do CEP e obter previsões do tempo com base em latitude e longitude.
